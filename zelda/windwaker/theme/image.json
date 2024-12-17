@@ -1,0 +1,8 @@
+{
+  "imageFilename": "*.jpg",
+  "imageCredits": "Cole",
+  "sunriseImageList": [1],
+  "dayImageList": [2],
+  "sunsetImageList": [3],
+  "nightImageList": [4]
+}
